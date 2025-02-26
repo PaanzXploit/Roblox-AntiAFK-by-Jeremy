@@ -1,4 +1,4 @@
-# Roblox-AntiAFK-by-Jeremy
+# Roblox-AntiAFK-by-PaanzXploit
 
 Script **Anti-AFK** ini **mencegah kamu terdeteksi AFK** dengan cara:  
 ✅ **Mengirim input palsu** seperti menekan tombol **W, A, S, D, atau Space** secara acak.  
